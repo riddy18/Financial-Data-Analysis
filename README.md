@@ -1,2 +1,2 @@
 # Financial-Data-Analysis
-Use data from yahoo finance python api for analyzing stock price data.
+Use data from yfinance api to analyze stock price data.
